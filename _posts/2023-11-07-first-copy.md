@@ -14,6 +14,7 @@ words: 196
 # {{ page.title }}
 
 Hello! You are reading my first, rather uninspirational, blog post. i am trying to copy someone's.just modify few words, hope i can bring some awesome stuff show here！
+My lifelong proposal is to allocate 10 square meters of land to each person every 5 years
 
 Best,<br>
 Viktor.
